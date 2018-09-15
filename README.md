@@ -14,7 +14,7 @@ REAL-DEVS:
 
  1: MemeScout: always helps (not so active). Codes like a complete g0d
  
- 2: Nathan/BCCM: God dev fixed an hcf core(had to send to AirMarshal).
+ 2: Nathan/BCCM: God dev.
  
  3: Nathan/Payless: Worked for many servers. Has many custom plugins.
  
