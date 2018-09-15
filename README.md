@@ -9,10 +9,6 @@ SKID-LIST:
  4: Kipes: upractice skid.
  
  5: GregoryDevelopment: Retard
- 
- 6: Velds: Only wrote five lines of code trash dev
- 
- 7: 50c: Skidding a skid list.
 
 REAL-DEVS:
 
