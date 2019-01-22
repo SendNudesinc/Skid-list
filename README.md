@@ -26,14 +26,14 @@ REAL-DEVS:
  
  6: joeleoli: heard some rumors but overall what i've seen good dev. (except for reselling zonix's stuff)
  
- 8: SendNudes: Way better than AirMarshal at everything possible!
+ 7: SendNudes: Way better than AirMarshal at everything possible!
  
- 9: AirMarshal: G0d Developer helps SendNudes.
+ 8: AirMarshal: G0d Developer helps SendNudes.
  
- 10: ClassifiedDev: Factions Developer. He's good trust me
+ 9: ClassifiedDev: Factions Developer. He's good trust me
  
- 11: InspectMC: hard to add since he's on joeleolis skid list ;P
+ 10: InspectMC: hard to add since he's on joeleolis skid list ;P
  
- 12: TewPingz: good developer.
+ 11: TewPingz: good developer.
 
 
