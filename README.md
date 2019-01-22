@@ -2,13 +2,15 @@ SKID-LIST:
  
  1: DaddyDombo: Skids/leaks cores and calls them his.
  
- 2: Mython: don't know all i know is he "recoded" all of joeleoli's plugin.
+ 2: Mython: don't know all i know is he "recoded" all of joeleoli's plugin, also is harmlessd don't be scared of the dude.
  
  3: 325k: Claims code as his own, and he talks shit on other servers cores calling them "notifyz" core calling real devs skids.
  
  4: Kipes: upractice skid.
  
  5: GregoryDevelopment: Retard
+ 
+ 6: Junas: Threatens players, Leaks Plugins etc..
 
 REAL-DEVS:
 
@@ -23,8 +25,6 @@ REAL-DEVS:
  5: figboot: God hub core.
  
  6: joeleoli: heard some rumors but overall what i've seen good dev. (except for reselling zonix's stuff)
- 
- 7: Junas: might not code best, but can code.
  
  8: SendNudes: Way better than AirMarshal at everything possible!
  
