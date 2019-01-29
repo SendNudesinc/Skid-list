@@ -16,7 +16,7 @@ REAL-DEVS:
 
  1: MemeScout: always helps (not so active). Codes like a complete g0d
  
- 2: Nathan/BCCM: God dev.
+ 2: Nathan/BCCM: dev.
  
  3: Nathan/Payless: Worked for many servers. Has many custom plugins.
  
@@ -34,6 +34,6 @@ REAL-DEVS:
  
  10: InspectMC: hard to add since he's on joeleolis skid list ;P
  
- 11: TewPingz: good developer.
+ 11: TewPingz: Amazing Developer, for sure knows how to code
 
 
