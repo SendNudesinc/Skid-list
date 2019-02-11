@@ -11,6 +11,8 @@ SKID-LIST:
  5: GregoryDevelopment: Retard
  
  6: Junas: Threatens players, Leaks Plugins etc..
+ 
+ 7: Puttdotexe: Big skid 
 
 REAL-DEVS:
 
@@ -35,5 +37,7 @@ REAL-DEVS:
  10: InspectMC: hard to add since he's on joeleolis skid list ;P
  
  11: TewPingz: Amazing Developer, for sure knows how to code
+
+ 12: imbosslol: doesn't even code yeet (my dad)
 
 
