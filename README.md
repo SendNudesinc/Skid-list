@@ -13,31 +13,29 @@ SKID-LIST:
  6: Junas: Threatens players, Leaks Plugins etc..
  
  7: Puttdotexe: Big skid 
+ 
+ 8: Nathan/BCCM: super skid luxormc kicked him out
 
 REAL-DEVS:
 
  1: MemeScout: always helps (not so active). Codes like a complete g0d
  
- 2: Nathan/BCCM: dev.
+ 2: Nathan/Payless: Worked for many servers. Has many custom plugins.
  
- 3: Nathan/Payless: Worked for many servers. Has many custom plugins.
+ 3: Emilo: well you guys should know this guy.
  
- 4: Emilo: well you guys should know this guy.
+ 4: figboot: God hub core.
  
- 5: figboot: God hub core.
- 
- 6: joeleoli: heard some rumors but overall what i've seen good dev. (except for reselling zonix's stuff)
- 
- 7: SendNudes: Way better than AirMarshal at everything possible!
- 
- 8: AirMarshal: G0d Developer helps SendNudes.
- 
- 9: ClassifiedDev: Factions Developer. He's good trust me
- 
- 10: InspectMC: hard to add since he's on joeleolis skid list ;P
- 
- 11: TewPingz: Amazing Developer, for sure knows how to code
+ 5: joeleoli: heard some rumors but overall what i've seen good dev. (except for reselling zonix's stuff)
 
- 12: imbosslol: doesn't even code yeet (my dad)
+ 6: SendNudes: Way better than AirMarshal at everything possible!
+ 
+ 7: AirMarshal: G0d Developer helps SendNudes.
+ 
+ 8: ClassifiedDev: Factions Developer. He's good trust me
+ 
+ 10: TewPingz: Amazing Developer, for sure knows how to code
+
+ 11: imbosslol: doesn't even code yeet (my dad)
 
 
